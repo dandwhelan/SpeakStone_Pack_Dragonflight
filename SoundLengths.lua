@@ -1168,7 +1168,6 @@ SpeakStoneSoundLengths_Pack_Dragonflight = {
     ["66473_completion.ogg"] = 4.20,
     ["66473_description.ogg"] = 16.80,
     ["66473_progress.ogg"] = 3.06,
-    ["66482_description.ogg"] = 2.24,
     ["66484_description.ogg"] = 11.80,
     ["66488_completion.ogg"] = 4.24,
     ["66488_description.ogg"] = 26.19,
