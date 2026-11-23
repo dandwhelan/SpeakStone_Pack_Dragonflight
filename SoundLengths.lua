@@ -4270,6 +4270,7 @@ SpeakStoneSoundLengths_Pack_Dragonflight = {
     ["73371_completion.ogg"] = 4.88,
     ["73372_completion.ogg"] = 5.40,
     ["73386_completion.ogg"] = 3.70,
+    ["73386_progress.ogg"] = 4.56,
     ["73387_completion.ogg"] = 5.00,
     ["73388_completion.ogg"] = 3.80,
     ["73389_completion.ogg"] = 4.00,
